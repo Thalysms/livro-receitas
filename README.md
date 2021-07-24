@@ -4,9 +4,3 @@ Olá ! Bem vindos ao meu livro de receitas :wave:
 
 - bombom de uva
 
-- pave
-
-  
-
-
-
